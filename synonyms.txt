@@ -1,0 +1,197 @@
+back pain;back ache;lumbago;bad back;back trouble;
+abdominal pain;bellyache;colic;gripe;pain in the stomach;sharp pain in the stomach;stomach ache;stomach pain;cramping
+dizziness;abhorrence;giddiness;vertigo;faintness;lightheadedness;unsteadiness;dysequilibrium;wooziness;off balance;loss of balance
+rapid heart beat(tachycardia;aortic insufficiency;aortic stenosis;apoplectic stroke;arteriosclerosis;auricular fibrillation
+shortness of breath;asphyxiated;asphyxiation;breathing difficulty;breathlessness;having trouble breathing;lack of air;wheeze;dyspnea
+feeling faint;debilitated;enervated;debilitate;enervate;fatigued;languid;weary
+loss of consciousness;blackout;knockout;unconsciousness;collapse;vertigo;stupor
+infection;contamination
+fever;feverishness;high temperature;febricity;febrility;shivering;delirium;pyrexia;calenture
+night sweats;nocturnal hyperhidrosis;hot flushes;short sudden feeling of heat
+bone and joint pain;musculoskeletal pain
+bruised skin;blackened skin;abrasion;blemished skin
+swollen;bloated;bulging;bulgy;inflamed;puffed;puffy;inflated;protruding;prominent;tumescent
+lymph node;lymph gland
+unexplained weight loss;cachexia;wasting syndrome
+purple skin rash;purpura
+headache;head ache;pain in the head;pounding head;throbbing head;migraine;cephalgia
+seizures;convulsions;fits;paroxysm;apoplexy;spasm;ictus;stroke;bout;attack
+vomiting;vomit;spew;puke;regorge;regurgitate;chunder
+breathlessness;asphyxiated;asphyxiation;breathing difficulty;having trouble breathing;lack of air;wheeze;dyspnea
+excessive sweating;hyperhidrosis;profuse sweating;focal hyperhidrosis;primary hyperhidrosis;secondary hyperhidrosis
+weight loss;slimming;slenderize;slim down
+discomfort;soreness;tenderness;stiffness;malaise;twinge;uneasiness;unpleasantness;distress;displeasure;unease;uncomfortableness;inconvenience;wretchedness;unhinge;rigidity
+diarrhoea;dysentery;gippy tummy;loose motions;diarrhea;montezuma’s revenge;loose stool;backdoor trots;turista;watery poo
+indigestion;dyspepsia;upset stomach;dyspepsy
+fatigue;tiredness;weariness;exhaustion;drowsiness;sleepiness;languor;weakness;faintness;feebleness
+lethargy;sleepiness;listlessness;torpidity;languor;lassitude;dullness;drowsiness;impassivity;idleness;inertia;phlegm;passiveness;unmindfulness;sluggishness;laziness;indolence
+weakness;fatigue;tiredness;weariness;exhaustion;drowsiness;sleepiness;languor;weakness;faintness;feebleness
+irritability;fretfulness;impatience;peevishness;crankiness;grumpiness;huffiness;waspishness;petulance;irritableness
+loss of appetite;anorexia;eating disorder;food aversion;poor appetite;anorexia nervosa;decreased appetite;inappetence;reduced appetite
+urinate;micturate;pass water;piddle;piss;puddle
+increased thirst;polydipsia
+craving;yearning;hankering;munchies;longing;appetition;letch;pining
+low blood pressure;orthostatic hypotension;postural hypotension;hypotension
+muscle cramp;muscle spasm;muscle pain;muscular contraction;muscle overshortening
+exhaustion;inanition;weariness;tiredness;frazzle;fatigue;prostration;lassitude;feebleness;enervation
+hyperpigmentation;suntan;sunburn
+confusion;bafflement;bewilderedness;puzzlement;discombobulation;perplexity;disorder;chaos;jumble;disarray;commotion;disturbance;tumult;pandemonium
+insomnia;sleeping disorder;sleeplessness;wakefulness;restlessness;insomnolence;inability to sleep
+black,tarry stools;melena;
+vomiting blood;hematemesis;bloody vomit
+sensitivity to alcohol;alcohol intolerance;acute alcohol sensitivity
+sensitivity to drugs;drug intolerance;drug sensitivity
+dehydration;desiccation;exsiccation;lack of moisture;parchedness
+severe;acute;serious;grave;critical;dire;drastic;extreme;dreadful;awful;appalling
+clammy;moist;damp;sticky
+rapid, shallow breathing;hyperventilation,tachypnea
+muscle weakness;myasthenia
+drowsiness;sleepiness;somnolence;oscitance;oscitancy
+swelling of abdomen;distended stomach;distension of abdomen
+salty;saline;brackish;briny;tangy;piquant
+unwell;unhealthy;sick;unsound;ill;ailing
+oedema;edema;dropsy;hydrops
+itchy skin;pruritus
+itchy;prickling;tickling;tingling
+curved fingertips;Clinodactyly;Camptodactyly
+blotchy red palms;liver palms;red palms;lane’s disease
+significant;indicative;important;representative;conspicuous;noteworthy;momentous;pronounced;profound;signifying;reflecting;denoting;substantial
+muscle wasting;muscle atrophy;myopenia
+frequent;common;usual;recurring;recurrent;incessant;persistent;
+nosebleed;epistaxis
+itchy,runny or blocked nose;rhinitis;inflammation of nasal passages
+chest tightness;heaviness in chest;pressure in the chest;unpleasant sensation in chest
+hives;urticaria;angioedema
+swollen lips,tongue,eyes or face;angioedema
+dry,red,cracked skin;xeroderma;xerodermia;xerosis cutis
+swelling of throat and mouth;swollen uvula;
+difficult breathing;shortness of breath;asphyxiated;asphyxiation;breathing difficulty;breathlessness;having trouble breathing;lack of air;wheeze;dyspnea
+lightheadedness;giddiness;unsteadiness;dysequilibrium;wooziness;
+blue lips or skin;cyanosis
+forget;fail to remember;misrecollect;obliterate;disremember
+misplace;mislay;lose;lose track of;to be unable to find;forget the whereabouts of
+repeat;redo;replicate;duplicate;reiterate
+delusion;Misapprehension;mistaken impression;false impression;mistaken belief;
+misconception;misunderstanding, mistake, error, misinterpretation, misconstruction, misbelief;
+aphasia;anomia;word blindness;word deafness;alexia
+frustrated;irked;infuriated;disheartened;discontented;exasperated;resentful;embittered
+agitated;distraught;discomposed;antsy;frantic;hysterical
+performing;doing;executing;carrying out
+difficulty;problem;issue;complication;trouble
+assistance;help;aid;helping hand;abetment;support
+unintentional passing of urine;involuntary urination;urinary incontinence;loss of bladder control
+unintentional passing of stools;accidental bowel leakage;bowel incontinence
+gradual loss of speech;aphasia
+short term memory;active memory;primary memory
+long term memory;implicit memory;explicit memory
+windpipe;trachea;pharynx
+rest;leisure;relaxation;be calm;laze;repose
+tenderness;sensitiveness;frailness;delicateness;feebleness;sensitivity
+warmth;warmness;snugness;tepidity
+heel;calx;distal end
+fasting;famish;starve;abstinence;dieting;abstain
+bloated;distended;stuffy;puffiness;swelling;intumescent
+constipated;obstructed;suffering from constipation 
+low body temperature;hypothermia
+bad breath;foul breath;foul smelling breath;halitosis
+tooth decay;cavity;caries;dental caries;dental cavity;cariosity
+laxative;purgative;cathartic;evacuant;aperient;lenitive;eccoprotic
+diuretic;diuretic drug;waterpill
+restlessness;worriedness;uneasiness;anxiety;restiveness;unrest
+dread;fear;anxiety;unease;angst;worry
+dry mouth;xerostomia;waterlessness;xerotes;dry tongue
+gastroenteritis;collywobbles;cholera infantum;cholera morbus;stomach flu
+irritable bowel syndrome;inflammatory bowel disease;mucous colitis;colitis;spastic colon
+Crohn's disease;regional enteritis;regional ileitis
+eczema;dermatitis;
+oozing;seeping;leaky;percolate
+sore;achy;painful;hurting;aching
+inattentiveness;heedlessness;neglectfulness;thoughtlessness;unpreparedness;forgetfulness;
+hyperactive;overactive;excitable;overzealous;wild
+impulsiveness;thoughtlessness;impetuousness;hastiness;unthoughtfulness;freakishness
+distracted;inattentive;distrait;delirious;frantic;frenzied
+tedious;tiresome;wearisome;boring;drudging;uninteresting;mind-numbing
+organising;coordinating;systemazing;arrange;arranging;interlock
+unable;not able to;incapable;unfit;inadequate;unqualified
+fidgeting;move restlessly;twitch;fret;squirm;jitter;bustle;fiddle;chafe
+excessive physical movement;dyskinesia
+excessive talking;logorrhea;logorrhoea 
+acting without thinking;ardent;impulsive;impetuousness
+autistic spectrum disorder;Pervasive developmental disorder;Pervasive developmental disorder-not otherwise specified;Asperger syndrome;High functioning autism
+learning difficulty;Auditory Processing Disorder;Dyscalculia;Dyscalculia;Dysgraphia;Dyslexia;Language Processing Disorder;Non-Verbal Learning Disabilities;ADHD;Dyspraxia
+carelessness;neglect;dodging;escaping;slackness;incaution
+edginess;anxiety;disquietude;uneasiness;willies;inquietude
+blurting out;ejaculate;speak;blat
+quick temper;ill temper;short temper;bad temper;irascibility
+bipolar disorder;manic depression;manic-depressive disorder;manic-depressive illness;bipolar mood disorder;bipolar affective disorder 
+monotonous;toneless;flat;uninflected;unchanging;uniform
+communicate;convey;impart;disseminate
+preferring;choosing;choose;opt for;select;pick;incline towards;favour
+avoiding;prevent;impede;hamper;thwart
+dislike;hate;despise;detest;disfavour;loathe
+guilt;shame;contrition;self-reproach;guilty conscience;remorse;self-condemnation
+despair;anguish;dejection;melancholy;gloom;disheartenment;wretchedness;hopelessness
+pessimistic;depressed;misanthropic;dejected;morose;downhearted
+self-doubt;diffidence;self-distrust
+suicidal thoughts;suicidal ideation;suicidalness;suicidal impulse;suicidal compulsions;suicidalism;suicidality
+elated;joyful;exhilarated;blissful;ecstatic;gleeful;in high spirits;overjoyed;blissed out;roused
+talking very quickly;fast talking
+feeling;notion;apprehension;premonition;foreboding
+a need to urinate on a more frequent basis;dysuria
+a burning sensation when passing urine;dysuria
+leg swelling;peripheral edema
+wheezing;asthmatic;wheezy
+coughing up blood;Hemoptysis
+mucus;mucous secretion
+an obsessive attitude towards food and eating;orthorexia nervosa
+unrealistic;impractical;unworkable;improbable;impracticable;unreal;non-realistic
+isolation;solitude;seclusion;exile;loneliness;remoteness
+shivery;shaky;quaking;shuddery;chilly;quivery;trembly
+hydronephrosis;distension dilation renal pelvis calyces
+brain fog;Clouding of consciousness;mental fog
+hypersensitivity to sound;Hyperacusis;hyperacousis
+water retention;fluid retention;edema
+protein in urine;proteinuria
+swollen ankles;edema
+diabetes;diabetes mellitus
+symptoms;sign;mark;indication;manifestation
+wheat intolerance;gluten intolerance
+stress;strain;pressure;tension;anxiety;worry;nervousness;distress;trauma;suffering;pain;grief
+vitamin B deficiency;pernicious anemia
+mouth ulcer;oral ulceration;oral ulcers
+producing more saliva than usual;hypersalivation
+hoarse;rough;harsh;rasping;husky;raucous;gruff;gravelly;croaky
+earache;otalgia
+soiling their clothes;Encopresis
+blood in stools;Rectal bleeding;hematochezia;blood in poo
+sinusitis;sinus infection;Rhinosinusitis
+fontanelle;fontanel
+blotchy;patchy;macular;spotty;uneven;blemished;
+tremor;trembling;shaking;shakiness;tremble;quivering;quiver;twitching;twitch;juddering;judder;
+self-esteem;self respect;self reliance;self confidence;self regard
+menstrual cycle;menses;period;menstruation
+postnatal depression;postpartum depression
+stomach ulcer;peptic ulcer
+bowel cancer;colorectal cancer
+a yellow crust developing over the patches;impetigo
+posture;positure;position;situation;state;pose
+a foot, leg or arm turning inwards;pronation
+body parts jerking rapidly;myoclonus
+alcohol;booze;liquor;drink;intoxicant;grog;strong drink
+experiencing an unusual smell or taste;Unpleasant phantosmia;cacosmia;
+chewing;chew;mastication;manducation
+swallowing;ingest;consume;take in
+restrain;hold back;restrict;harness;constrain;hamper;subdue;curtail;control;prevent;confine;hinder
+regain;recover;redeem;retake;recapture;recoup;retrieve
+injured;mutilate;harm;impair;mangle;disable;maim
+sleepy;drowsy;sluggish;lethargic;torpid;slumbersome;inactive
+lack of tears;dry eyes
+sharp pain;shooting pain;darting pain;sting;stabbing pain
+exaggerated sense of pain;hyperalgesia
+clumsiness;awkwardness;gracelessness;gawkiness;inelegance;ineptitude
+restless legs syndrome;willis ekbom disease
+genitals;private parts;crotch;groin
+scrotum;testicles
+flaky;peeling;cracking;blistering;desquamtive
+gum abscess;periodontal abscess
+bleeding gums;gingivitis
